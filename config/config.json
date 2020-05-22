@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "a28a96_examen",
+    "password": "Master20145",
+    "database": "db_a28a96_examen",
+    "host": "mysql5027.site4now.net",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
